@@ -1,2 +1,2 @@
 # HelloGitHub
-A introductory repo
+An introductory repo to using Git
