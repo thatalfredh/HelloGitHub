@@ -9,7 +9,7 @@ I'm Alfred, a Data Scientist located in Singapore.
 
 **Connect with me:**
 
-![LeetCode Badge](https://badges.peiyuan.ch/leetcode/thatalfredhuang/ranking?logoWidth=30&logo=leetcode&label=thatalfredhuang&style=for-the-badge&color=green)
+![LeetCode Badge](https://badges.peiyuan.ch/leetcode/thatalfredhuang/ranking?logoWidth=10&logo=leetcode&label=thatalfredhuang&style=for-the-badge&color=green)
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/alfred-huang)
 
 <h3 align="left">Languages and Tools:</h3>
