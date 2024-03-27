@@ -2,11 +2,12 @@
 
 I'm Alfred, a Data Scientist located in Singapore.
 
-🤖 Previously developed multimodal machine learning and recommendation framework for predictive advertising @ SoMin.ai
-🌱 Currently developing my Capstone project under WQU MFE690
-🀄 Avid [Mahjong](https://www.reddit.com/r/Mahjong/comments/x1kya6/comment/imen81j/?utm_source=share&utm_medium=web3x&utm_name=web3xcss&utm_term=1&utm_content=share_button) player (Riichi, Hong Kong and Singapore variants)
+- 🤖 Previously developed multimodal machine learning and recommendation framework for predictive advertising @ SoMin.ai
+- 🌱 Currently developing my Capstone project under WQU MFE690
+- 🀄 Avid [Mahjong](https://www.reddit.com/r/Mahjong/comments/x1kya6/comment/imen81j/?utm_source=share&utm_medium=web3x&utm_name=web3xcss&utm_term=1&utm_content=share_button) player (Riichi, Hong Kong and Singapore variants)
 
 **Connect with me:**
+
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/alfred-huang)
 
 <h3 align="left">Languages and Tools:</h3>
