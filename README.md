@@ -4,6 +4,7 @@ I'm Alfred, a Data Scientist located in Singapore.
 
 - 🤖 Previously developed multimodal machine learning and recommendation framework for predictive advertising @ SoMin.ai
 - 🌱 Currently developing my Capstone project under WQU MFE690
+- 💻 Well...I do LeetCode too; ![](https://badges.peiyuan.ch/leetcode/thatalfredhuang/ranking?logo=leetcode&label=thatalfredhuang&style=for-the-badge&color=green)
 - 🀄 Avid [Mahjong](https://www.reddit.com/r/Mahjong/comments/x1kya6/comment/imen81j/?utm_source=share&utm_medium=web3x&utm_name=web3xcss&utm_term=1&utm_content=share_button) player (Riichi, Hong Kong and Singapore variants)
 
 **Connect with me:**
